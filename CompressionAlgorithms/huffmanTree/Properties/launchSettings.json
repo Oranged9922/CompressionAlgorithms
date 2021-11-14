@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "huffmanTree": {
+      "commandName": "Project",
+      "commandLineArgs": "test.txt",
+      "workingDirectory": "H:\\GitHub\\CompressionAlgorithms\\CompressionAlgorithms\\huffmanTree\\bin\\Debug\\netcoreapp3.1"
+    }
+  }
+}

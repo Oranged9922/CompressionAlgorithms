@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompressionAlgorithms", "CompressionAlgorithms\CompressionAlgorithms.csproj", "{B3600558-D17C-41C7-B8CA-CC7CFA624052}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompressionAlgorithmsTests", "CompressionAlgorithmsTests\CompressionAlgorithmsTests.csproj", "{EC522733-8E01-4B7D-89D7-6B97C259C345}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "huffmanTree", "huffmanTree\huffmanTree.csproj", "{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Debug|x64.ActiveCfg = Debug|x64
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Debug|x64.Build.0 = Debug|x64
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Release|x64.ActiveCfg = Release|x64
+		{B3600558-D17C-41C7-B8CA-CC7CFA624052}.Release|x64.Build.0 = Release|x64
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Debug|x64.ActiveCfg = Debug|x64
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Debug|x64.Build.0 = Debug|x64
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Release|x64.ActiveCfg = Release|x64
+		{EC522733-8E01-4B7D-89D7-6B97C259C345}.Release|x64.Build.0 = Release|x64
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Debug|x64.ActiveCfg = Debug|x64
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Debug|x64.Build.0 = Debug|x64
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Release|x64.ActiveCfg = Release|x64
+		{5DFD6051-666A-43A1-BA1A-2C1ABC7C364C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E118F2A3-0B5A-43B3-B7EB-7177D468DA6D}
+	EndGlobalSection
+EndGlobal
